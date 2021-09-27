@@ -1,0 +1,28 @@
+{
+    "name": "best-vscode",
+    "displayName": "best_vscode",
+    "description": "Extensions for bestinformed development",
+    "version": "0.0.1",
+    "publisher": "cordaware",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens",
+        "faisalhakim47.vue-inline-template", 
+        "geeebe.duplicate", 
+        "johnpapa.vscode-peacock", 
+        "johnsoncodehk.volar",
+        "johnsoncodehk.vscode-typescript-vue-plugin", 
+        "pgourlain.erlang", 
+        "ritwickdey.LiveServer", 
+        "ryu1kn.partial-diff", 
+        "sibiraj-s.vscode-scss-formatter", 
+        "silvenon.mdx", 
+        "Valentin.beamdasm"
+    ]
+}
